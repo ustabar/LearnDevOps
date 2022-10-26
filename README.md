@@ -6,18 +6,22 @@ COMPLETE DEVOPS TUTORIAL FROM YOUTUBE
 | ----: | :------------------- |:------------------------ |
 | 1     | DevOps Pre-requisite | https://lnkd.in/dD9Z_5qA |
 | 2     | Networking           | https://lnkd.in/dwfmwmA9 |
-3. Linux
-https://lnkd.in/d7gzxH5z
-https://lnkd.in/dr4pjCV3
-https://lnkd.in/dzTQE4b7
-
-4. Shell scripting
-
-https://lnkd.in/dKrD_up7
-
-https://lnkd.in/dJVqMt3Y
-
-https://lnkd.in/d7VVbbNJ
+| 3     | Linux                | https://lnkd.in/dwfmwmA9 |
+|       |                      | https://lnkd.in/d7gzxH5z |
+|       |                      | https://lnkd.in/dr4pjCV3 |
+|       |                      | https://lnkd.in/dzTQE4b7 |
+| 4     | Shell scripting      | https://lnkd.in/dKrD_up7 |
+|       |                      | https://lnkd.in/dJVqMt3Y |
+|       |                      | https://lnkd.in/d7VVbbNJ |
+|       |                      |  |
+|       |                      |  |
+|       |                      |  |
+|       |                      |  |
+|       |                      |  |
+|       |                      |  |
+|       |                      |  |
+|       |                      |  |
+|       |                      |  |
 
 5. Git & GitHub
 
