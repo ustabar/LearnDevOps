@@ -1,7 +1,12 @@
 # LearnDevOps
-Youtube channels to learn devops
 
-COMPLETE DEVOPS TUTORIAL:
+COMPLETE DEVOPS TUTORIAL FROM YOUTUBE
+
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
 
 1. DevOps Pre-requisite
 
