@@ -2,15 +2,15 @@
 
 COMPLETE DEVOPS TUTORIAL FROM YOUTUBE
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
+| Number | Left-Aligned  | Center Aligned  | Right Aligned |
+| -----: | :------------ |:---------------:| -----:|
+| 1 | DevOps Pre-requisite | https://lnkd.in/dD9Z_5qA |
+| 2 | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 
-1. DevOps Pre-requisite
+1. 
 
-https://lnkd.in/dD9Z_5qA
+
 
 2. Networking
 
