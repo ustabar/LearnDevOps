@@ -2,26 +2,13 @@
 
 COMPLETE DEVOPS TUTORIAL FROM YOUTUBE
 
-| Number | Left-Aligned  | Center Aligned  | Right Aligned |
-| -----: | :------------ |:---------------:| -----:|
-| 1 | DevOps Pre-requisite | https://lnkd.in/dD9Z_5qA |
-| 2 | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
-
-1. 
-
-
-
-2. Networking
-
-https://lnkd.in/dwfmwmA9
-
+| Order | Subject              | Link                     |
+| ----: | :------------------- |:------------------------ |
+| 1     | DevOps Pre-requisite | https://lnkd.in/dD9Z_5qA |
+| 2     | Networking           | https://lnkd.in/dwfmwmA9 |
 3. Linux
-
 https://lnkd.in/d7gzxH5z
-
 https://lnkd.in/dr4pjCV3
-
 https://lnkd.in/dzTQE4b7
 
 4. Shell scripting
